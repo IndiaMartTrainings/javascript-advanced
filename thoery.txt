@@ -129,7 +129,7 @@ A type of data that represents a  single value is called primitive data type
 5. string - a sequence of characters
 6. Symbol - used in ES6
 
-Anythiing which is not primitive is an Object in javascript
+Anything which is not primitive is an Object in javascript
 
 object 
 function
