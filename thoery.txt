@@ -156,7 +156,7 @@ First Class Functions
 2. assign to a variable
 3. passed as a parameter to another variable
 
-Advantages with IIFs (24/09/2020)
+Advantages with IIFs 
 --------------------
 1. will not create unnecessary gloabal variables and functions
 2. functions and variables defined don not conflict
