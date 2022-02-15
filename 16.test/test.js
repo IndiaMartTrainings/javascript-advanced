@@ -80,3 +80,9 @@ var array = ['a', 'b', 'c', 'd', 'e', 'f']
 array.splice(0, array.length)
 
 console.log(array)
+
+var count =1
+
+var message = count > 0 ? "Hello" : "Hai"
+
+console.log(message)
